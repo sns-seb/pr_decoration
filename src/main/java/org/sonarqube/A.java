@@ -10,4 +10,10 @@ public class A {
     return message;
   }
 
+  public String bar() {
+    // my tailor is rich
+
+
+    return "bouh";
+  }
 }
