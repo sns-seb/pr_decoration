@@ -1,3 +1,6 @@
+/**
+ * un commentaire en début de classe
+ */
 package org.sonarqube;
 
 public class A {
