@@ -3,7 +3,7 @@ package org.sonarqube;
 public class A {
   String message = "foo";
 
-  // TODO fix this
+  // fix this
   public String foo() {
     message = null;
     message.length();
