@@ -5,7 +5,7 @@ public class A {
 
   // fix this
   public String foo() {
-    message = null;
+    message = "null";
     message.length();
 
     return message;
