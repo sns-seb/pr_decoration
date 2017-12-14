@@ -7,7 +7,6 @@ public class A {
 // FIXME
     if (bar() < doh()) {
       unused1();
-      lastBarBeforeTheEndOfTime();
     }
     return message;
   }
