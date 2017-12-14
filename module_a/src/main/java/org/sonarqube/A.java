@@ -6,7 +6,6 @@ public class A {
   public String foo() {
     if (bar() < doh()) {
       unused1();
-      lastBarBeforeTheEndOfTime();
     }
     return message;
   }
