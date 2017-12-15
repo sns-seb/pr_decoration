@@ -3,7 +3,10 @@ package org.sonarqube;
 public class A {
   String message = "foo";
 
+  // TODO fix this
   public String foo() {
+    message = null;
+    message.length();
     if (bar() < doh()) {
       unused1();
     }
