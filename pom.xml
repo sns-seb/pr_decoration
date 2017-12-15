@@ -5,10 +5,9 @@
   <groupId>org.sonarqube</groupId>
   <artifactId>pr-decoration</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.language>java</sonar.language>
-  </properties>
-
+  <modules>
+    <module>module_a</module>
+  </modules>
 </project>
